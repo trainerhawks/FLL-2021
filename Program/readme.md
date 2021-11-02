@@ -1,6 +1,6 @@
 # MyBlocks i navigasjon.ev3
 
-Under vises en tabell med de MyBlocks som TechnoBuilders har laget for FLL 2021. Noen av blokkene bruker kalibreringsverdier lagret i variabler som vist i tabellen. Det er verdier for hvor lite reflektert lys som skal til for å stoppe, eller hvor mye reflektert lys det er når sensoren står midt over skillet mellom sort og hvit.
+Under vises en tabell med de MyBlocks som TechnoBuilders har laget for FLL 2021. Noen av blokkene bruker kalibreringsverdier lagret i variabler som vist i tabellen. Det er verdier for hvor lite reflektert lys som skal til for å stoppe og hvor mye reflektert lys det er når sensoren står midt over skillet mellom sort og hvit. Tabellen viser også hvilke av blokkene som er tenkt brukt alene eller som hjelpeblokk inne i andre blokker.
 
 | MyBlock          | Brukes      | svart_hvit | svart_stop |
 |------------------|-------------|------------|------------|
@@ -48,7 +48,7 @@ Linjefølger som følger strek med venstre sensor. Stopper etter gitt avstand.
 * cm - Hvor langt skal roboten kjøre før den stopper
 
 ## drive_fwd_stop_r - Drive Forward Stop Right
-![drive_fwd_stop_r](images/drive_fwd_stop_r.png)
+![drive_fwd_stop_R](images/drive_fwd_stop_R.png)
 Kjører rett fram, stopper når høyre sensor ser svart.
 #### Input
 * Speed
